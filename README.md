@@ -2,7 +2,7 @@
 
 - 前后端分离项目
 
-		covid-spring目录为后端，covid-vue为前端
+		前端使用Vue框架编写，后端使用Spring Boot。covid-springboot目录为后端，covid-vue为前端
 
 - 运行
 
